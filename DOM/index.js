@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const h1= document.getElementsByTagName('h1')[0];
 
 console.log(h1);
@@ -38,3 +39,10 @@ for(let i of a){
 }
 
 document.querySelectorAll('li')[2].innerText="kgf"
+=======
+const h1= document.getElementsByTagName('h1')[0];
+
+console.log(h1);
+
+h1.style.color='red'
+>>>>>>> bf7a196afbed9c990510321662ed26e8a51785cd
