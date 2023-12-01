@@ -7,7 +7,6 @@ h1.style.backgroundColor='teal';
 h1.style.border='12px solid blue';
 h1.style.width='300px';
 
-
 const para=document .getElementsByTagName('p')[1];
 para.style.color='blue';
 
